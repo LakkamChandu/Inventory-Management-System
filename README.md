@@ -193,7 +193,6 @@ During my internship period, I participated in multiple community-oriented activ
 
 <div align="center">
 <img src= "https://github.com/user-attachments/assets/193c75c2-614d-43f4-8b0b-225fb677990f"
-
     alt="Community Service Photo 1" width="30%">
 <img src= "https://github.com/user-attachments/assets/e54728b3-870c-4e92-b456-34cb128a1538"
  alt="Community Service Photo 2" width="30%">
