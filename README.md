@@ -196,7 +196,7 @@ During my internship period, I participated in multiple community-oriented activ
     alt="Community Service Photo 1" width="30%">
 <img src= "https://github.com/user-attachments/assets/3858fe65-4076-433b-a739-41aa7e1085ab"
  alt="Community Service Photo 2" width="30%">
-<img src= "https://github.com/user-attachments/assets/eb63b661-dad2-4716-a3fc-871c9f88798c"
+<img src= "https://github.com/user-attachments/assets/84e7061e-e62b-4fae-aaa0-2d73e76ce4ce"
  alt="Community Service Photo 3" width="30%">
 </div>
 
