@@ -192,7 +192,7 @@ During my internship period, I participated in multiple community-oriented activ
 <!-- change url below with your image urls (inside  src='')-->
 
 <div align="center">
-<img src= "https://github.com/user-attachments/assets/193c75c2-614d-43f4-8b0b-225fb677990f"
+<img src= "https://github.com/user-attachments/assets/2438436b-3229-4b54-be64-f70338191e09"
     alt="Community Service Photo 1" width="30%">
 <img src= "https://github.com/user-attachments/assets/e54728b3-870c-4e92-b456-34cb128a1538"
  alt="Community Service Photo 2" width="30%">
